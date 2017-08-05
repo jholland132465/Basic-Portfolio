@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+	background-color: #bbb;
+	display: block;
+	height:30px;
+	text-align: center;
+}
+
+nav {
+	background-color: #bbb;
+	display: block;
+	height:30px;
+	text-align: center;
+
+}
+
+.wrapper
+{
+width: 960px;
+margin: 0 auto 0 auto;
+
+}
+
+section {
+	float: left;
+    background-color: #bbb;
+    padding: 10px;
+    margin: 5px;
+	text-align: center;
+	
+
+}
+
+aside {
+	overflow: hidden;
+    background-color: #bbb;
+	margin: 5px;
+	text-align: center;
+	padding: 10px;
+
+}
+
+div 
+
+footer{
+clear:both;
+background-color: #bbb;
+    padding: 10px;
+    margin: 5px;
+	height:30px;
+	text-align: center;
+}
